@@ -4,5 +4,15 @@ This is a playground for the lab from the Git Branching and Pull Requests lesson
 
 ## Make your changes here
 
-Some changes 1.2
-test 1
+## How to push local repo:
+
+**git init** - init the repo (if not already done)
+**git remote add origin https://github.com/username/repository.git** - add the remote repo
+**git add .** - stage all changes
+**git commit -m 'Some text'** - commit the changes
+**git push** - push to GitHub
+
+## Aditional Tips
+
+**git status** - check the status
+**git remote -v** - view the remote repo linked to my local repo
